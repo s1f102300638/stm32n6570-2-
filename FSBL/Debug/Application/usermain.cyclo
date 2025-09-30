@@ -1,0 +1,6 @@
+../Application/usermain.c:290:12:task_monitor	2
+../Application/usermain.c:139:12:task_cam	3
+../Application/usermain.c:95:12:task_btn	2
+../Application/usermain.c:87:12:inthdr_btn	1
+../Application/usermain.c:176:12:task_detection	10
+../Application/usermain.c:318:12:usermain	7

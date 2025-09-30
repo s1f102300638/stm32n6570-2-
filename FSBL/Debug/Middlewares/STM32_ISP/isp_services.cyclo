@@ -1,0 +1,2 @@
+../Middlewares/STM32_ISP/isp_services.c:10:27:ISP_Init	1
+../Middlewares/STM32_ISP/isp_services.c:14:27:ISP_Start	1

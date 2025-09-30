@@ -1,0 +1,6 @@
+../Application/usermain.c:290:12:task_monitor	24	static
+../Application/usermain.c:139:12:task_cam	16	static
+../Application/usermain.c:95:12:task_btn	24	static
+../Application/usermain.c:87:12:inthdr_btn	8	static
+../Application/usermain.c:176:12:task_detection	32	static
+../Application/usermain.c:318:12:usermain	32	static

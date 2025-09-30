@@ -1,0 +1,11 @@
+C:/Users/iniad/STM32CubeIDE/workspace_2/mtk3bsp2_stm32n657/Appli/mtk3_bsp2/include/tk/sysdepend/stm32_cube/cpu/core/armv8m/syslib.h:79:13:out_h	16	static
+C:/Users/iniad/STM32CubeIDE/workspace_2/mtk3bsp2_stm32n657/Appli/mtk3_bsp2/include/tk/sysdepend/stm32_cube/cpu/core/armv8m/syslib.h:96:11:in_h	16	static
+../../Drivers/STM32N6xx_HAL_Driver/Inc/stm32n6xx_ll_bus.h:1407:22:LL_AHB4_GRP1_EnableClock	24	static
+../Application/usermain.c:43:12:led_on	8	static
+../Application/usermain.c:49:12:led_off	8	static
+../Application/usermain.c:55:12:led_toggle	8	static
+../Application/usermain.c:62:12:led_hal_toggle	16	static
+../Application/usermain.c:68:12:task_led	24	static
+../Application/usermain.c:95:12:task_msg	24	static
+../Application/usermain.c:115:12:init_led_gpio	32	static
+../Application/usermain.c:139:12:usermain	16	static
